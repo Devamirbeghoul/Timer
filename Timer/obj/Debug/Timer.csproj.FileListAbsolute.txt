@@ -1,0 +1,15 @@
+D:\vscode\Purple\Timer Project\Timer\bin\Debug\Timer.exe.config
+D:\vscode\Purple\Timer Project\Timer\bin\Debug\Timer.exe
+D:\vscode\Purple\Timer Project\Timer\bin\Debug\Timer.pdb
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.csproj.AssemblyReference.cache
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.fmTimerScreen.resources
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.exe
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.pdb
+D:\vscode\Purple\Timer Project\Timer\bin\Debug\Guna.UI2.dll
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.csproj.Up2Date
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.ucTimeNow.resources
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.ucTimer.resources
+D:\vscode\Purple\Timer Project\Timer\obj\Debug\Timer.ucAlarmClock.resources
